@@ -3,4 +3,16 @@ Expo-app called currency exchanger. You choose different currencies with modal d
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![Etusivu](valuuttamuunnin.jpg)
